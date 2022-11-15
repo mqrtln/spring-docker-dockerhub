@@ -1,5 +1,5 @@
 # Docker med Spring boot, Docker hub & AWS ECR 
-
+[![Publish Docker image](https://github.com/mqrtln/spring-docker-dockerhub/actions/workflows/PDI.yml/badge.svg)](https://github.com/mqrtln/spring-docker-dockerhub/actions/workflows/PDI.yml)
 ## Beskrivelse
 
 * Dette repoet inneholder en veldig enkel Spring Boot applikasjon som sier "hello" når en request kommer til context root (/)
